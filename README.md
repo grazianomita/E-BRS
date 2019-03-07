@@ -1,6 +1,5 @@
 # E-BRS
-E-BRS stands for Ensemble of Boolean Rule Sets.
-It is a binary classifier that uses an ensemble of boolean rule sets to improve predictive performance and interpretability (in terms of number of rules and average number of atoms).
+E-BRS stands for Ensemble of Boolean Rule Sets. It is a binary classifier that uses an ensemble of boolean rule sets for interpretable classification. A record is predicted to belong to the positive class if there is at least one rule that is true for that record.
 
 ## Installation
 E-BRS is provided in a python package. You can install the package by running:
